@@ -1,0 +1,8 @@
+:root {
+  --theme-colors-primary: #dddddd;
+  --theme-colors-primaryHover: #cccccc;
+  --theme-colors-primaryDisabled: #eeeeee;
+  --theme-colors-secondary: #f5576c;
+  --theme-colors-secondaryHover: #db4f61;
+  --theme-colors-secondaryDisabled: #ffa9b1;
+}
